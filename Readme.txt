@@ -13,3 +13,6 @@ Step 5 : After that, you must migrate database "docker container exec laravel_wo
 Step 6 : Lauch composer to install laravel libs "docker container exec laravel_workspace composer install".
 Step 7 : Allow permission for Storage folder "chmod -R 777 ./src/storage".
 Step 8 : Follow link: localhost:8080.
+
+
+# connect tableplus via user and password of mysql.
